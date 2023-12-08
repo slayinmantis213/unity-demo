@@ -36,8 +36,12 @@ Inspired by games like Chrono Trigger, FFVI, and Octopath Traveler, my classmate
 <img src="wizard-overworld-gif.gif" alt="Wizard Overworld gif" height="300" />
 
 
->Battle
 - Path narrows into a clearing with a menacing skeleton.
+
+<img src="wizard-clearing-gif.gif" alt="Wizard Transition gif" height="300" />
+
+>Battle
+
 - At a certain distance, player is pulled from overworld to battle scene.
 
 <img src="wizard-transition-gif.gif" alt="Wizard Transition gif" height="300" />
